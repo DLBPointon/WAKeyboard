@@ -18,21 +18,21 @@ Of course, it's cool. I've tried to keep a similar-ish column stagger (more aggr
 ## Design
 
 I've designed this board using [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/), writing it all in their raw data json field _before_ realising that there was GUI the whole time. This produces the contents of this file: [layout.json](data/layout.json).
-![Keyboard](images/what-a-keyboard-(wak).png)
+![WAK](Images/what-a-keyboard-(wak).png)
 
 Copy Pasting this into [KBFirmware](https://kbfirmware.com/), which I know is EOL but it's great for getting a quick and easy wiring diagram.
-![Wiring](images/WAKwiring.png)
+![Wiring](Images/WAKwiring.png)
 
 Pasting it into [swillkb's builder app](http://builder.swillkb.com/) will generate some CAD output too. Saved in the cad folder. This looks something like this:
-![Switch Layer](images/SwitchLayer.png)
+![Switch Layer](Images/SwitchLayer.png)
 
 I went to [laserboost](https://www.laserboost.com/en/create) to get the switch and bottom plate cut in Aluminium (This is only a prototype, and I feel like I should have found a 3d printer service too... lessons for the future)
 
 I then thought, hmm... what would make this look very professional? People on the Reddit and the YouTube seem to like KiCad, so I gave it a go and came up with this:
-![KiCad Drawing](images/KiCad.png)
+![KiCad Drawing](Images/KiCad.png)
 
 I also used this and the ScottoKeebs KiCad repo to generate a PCB, which I will not be getting printed as it is not completed (Some of the lines couldn't route to their pin so I temporarily gave up) and looks trash (from my currently uneducated gaze). It's more here to show it's easy to do after a 3rd viewing of Joe Scotto's tutorial. Look's cool though right?
-![WAK_PCB](images/WAK_pcb.png)
+![WAK_PCB](Images/WAK_pcb.png)
 
 ## Bill Of Materials
 
