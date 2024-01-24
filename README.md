@@ -2,6 +2,9 @@
 
 Whilst waiting for a replacement for a beautiful split keyboard, the Sofle v2, i jumped into the rabbit hole of Mechanical Keyboards. It didn't help that my daughter now wants her own, so here I am.
 
+## Build Diary
+[Find my build diary here](diary/diary.md)
+
 ## The Board
 This will be a handwired, wired (for now) build using an RP2040 board (specifically this one [Waveshare RP2040 Plus](https://thepihut.com/products/rp2040-plus?variant=42405935612099), however if that doesn't work out then I have a Pi Pico WH in waiting--which I need to figure out how to hook up to a LiPo) programmed with KMK. For me this makes sense as i'm primarily a Python developer and KMK is built for the RP2040 ecosystem.
 
