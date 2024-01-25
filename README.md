@@ -39,6 +39,14 @@ I also used this and the ScottoKeebs KiCad repo to generate a PCB, which I will 
 
 ## Bill Of Materials
 
-| Item | Cost | Use | Site |
-|---|---|---|---|
-| Diodes | £3.00 | For Dioding | Mechboards.co.uk |
+| Item | Cost | Use | Site | Notes |
+|---|---|---|---|---|
+| Diodes | £3.00 | For Dioding | Mechboards.co.uk | |
+| MX Silent Reds | £36.00 | The switches | Mechboards.co.uk | Being swapped out for Gateron Oil Kings in my Sofle V2 |
+| Main Header set for Pico * 2| £2.00 | for socketing | PiHut | *2 so i have a spare, fat fingers and tiny electronics don't go will together | 
+| Pin breakout board | £4.20 | For use as my Socket | PiHut |Better than hotgluing header sets |
+| Mounting Kit (screws and nut) | £11.50 | Screwing everything together | PiHut ||
+| Waveshare RP2040Plus 16MB | £11.80 | The microcontroller | PiHut | Only for a wired build |
+| Solder Wire (lead free) | £8.00 | For soldering | PiHut ||
+| USB-C to USB-C cable | £4.50 | To connect to the PC | PiHut ||
+| Fermion Monochrome 128x32 I2C OLED | £9.80 | For visually checking you layer and adding images | PiHut | Dont hold the pins to the back of this for testing, you will slowly burn...|
