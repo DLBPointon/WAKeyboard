@@ -52,7 +52,7 @@ My new years resolution is no Amazon so my BoM so far is:
 | Solder Wire (lead free) | £8.00 | For soldering | [PiHut](https://thepihut.com/products/solder-wire-sac305-rohs-lead-free-0-5mm-02-diameter?variant=27739691025) ||
 | USB-C to USB-C cable | £4.50 | To connect to the PC | [PiHut](https://thepihut.com/products/usb-c-to-usb-c-cable-1m?variant=42520365596867) ||
 | Fermion Monochrome 128x32 I2C OLED | £9.80 | For visually checking you layer and adding images | [PiHut](https://thepihut.com/products/fermion-monochrome-0-91-128x32-i2c-oled-display-with-chip-pad?variant=42046348394691) | Dont hold the pins to the back of this for testing, you will slowly burn...|
-| Metal plates | £70.00 | The case for the whole thing | Lasterboost | I only got the switch and bottom plate, but really I should have just gone for a 3D printer service for this prototype |
+| Metal plates | £70.00 | The case for the whole thing | [Lasterboost](https://www.laserboost.com/en/create) | I only got the switch and bottom plate, but really I should have just gone for a 3D printer service for this prototype |
 | Wire | £8.00 | 60m of wire | [modellinglectronics](https://www.modellingelectronics.co.uk/products/solid-connecting-wire-1-0.6mm/) | 6 colours, 10m each not bad. Means I can have colour coded rows and columns for each area |
 | Time spent researching | Priceless | So much stuff! | Reddit and Forums | Just so much... |
 
