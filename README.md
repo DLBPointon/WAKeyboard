@@ -39,6 +39,8 @@ I also used this and the ScottoKeebs KiCad repo to generate a PCB, which I will 
 
 ## Bill Of Materials
 
+My new years resolution is no Amazon so my BoM so far is:
+
 | Item | Cost | Use | Site | Notes |
 |---|---|---|---|---|
 | Diodes | £3.00 | For Dioding | Mechboards.co.uk | |
@@ -50,3 +52,12 @@ I also used this and the ScottoKeebs KiCad repo to generate a PCB, which I will 
 | Solder Wire (lead free) | £8.00 | For soldering | PiHut ||
 | USB-C to USB-C cable | £4.50 | To connect to the PC | PiHut ||
 | Fermion Monochrome 128x32 I2C OLED | £9.80 | For visually checking you layer and adding images | PiHut | Dont hold the pins to the back of this for testing, you will slowly burn...|
+| Metal plates | £70.00 | The case for the whole thing | Lasterboost | I only got the switch and bottom plate, but really I should have just gone for a 3D printer service for this prototype |
+| Wire | £8.00 | 50m of wire | modelelectronics | 5 colours, 10m each not bad. Means I can have colour coded rows and columns |
+| Time spent researching | Priceless | So much stuff! | Reddit and Forums | Just so much...|
+
+So far that is **£168.80**
+
+Which I don't think is too bad, and could be brought under £100 by 3D printing the case or using smaller cheaper microcontroller.
+
+I already have a soldering iron, but that was £20-ish and a Dremel for engraving and metal work, £100 but not needed at all.
