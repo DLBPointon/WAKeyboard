@@ -1,4 +1,4 @@
-## 24th January 2024
+# 24th January 2024
 My PiHut order arrived!
 
 I plugged my Waveshare RP2040 Plus and Raspberry Pi Pico into a mounting board and then into my computer, whilst pressing the bootslct button.
@@ -43,3 +43,20 @@ Reset/boot your pi and use something to bridge GP0 and GP01, I had a jumper wire
 Once I got that work, I wrote the first version of my keymap ([found here](data/code_v1.py)) which only took some minor debugging before I found that KC.9 should have been KC.N9, any error will cause it to straight up not work.
 
 And now I wait for everything else to turn up...
+
+# 26th January 2024
+
+The switch and bottom plates, switches, diodes and wire have arrived!
+
+The plates look great, and I have immediately populated it with _some_ help from my daughter (6 switches rushed into place) before realising I was 6 switches short, so off to mechboards again...
+
+It's a good thing this is a handwired board because those switches wouldn't be coming out even if they wanted to.
+
+Apologies for the shody photots.
+![SwitchPlate](../Images/SwitchPlate.jpg)
+
+![PopSwitchPlate](../Images/PopulatedSwitchPlate.jpg)
+
+6 switches off though...
+
+I then spent the next half hour using these sausage finger to bend all my diodes in preparation for soldering day.
