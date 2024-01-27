@@ -6,8 +6,10 @@ from kmk.kmk_keyboard import KMKKeyboard
 from kmk.keys import KC
 from kmk.scanners import DiodeOrientation
 from kmk.handlers.sequences import send_string
+from kmk.extensions.media_keys import MediaKeys
 
 keyboard = KMKKeyboard()
+keyboard.extensions.append(MediaKeys())
 
 WAK_W = send_string("What A Keyboard!!")
 WAK_A = send_string("Amazing Keyboard!!")

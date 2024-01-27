@@ -1,6 +1,6 @@
 # WAK!
 
-Whilst waiting for a replacement for a beautiful split keyboard, the Sofle v2, i jumped into the rabbit hole of Mechanical Keyboards. It didn't help that my daughter now wants her own, so here I am.
+Whilst waiting for a replacement for a beautiful split keyboard, the Sofle v2, i jumped into the rabbit hole of Mechanical Keyboards. It didn't help that my daughter now wants her own, so here I am learning in public.
 
 ## Build Diary
 [Find my build diary here](diary/diary.md)
