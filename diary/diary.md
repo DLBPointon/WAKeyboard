@@ -1,4 +1,4 @@
-# 24th January 2024
+# 24th January 2024 (Day 1)
 My PiHut order arrived!
 
 I plugged my Waveshare RP2040 Plus and Raspberry Pi Pico into a mounting board and then into my computer, whilst pressing the bootslct button.
@@ -44,7 +44,7 @@ Once I got that work, I wrote the first version of my keymap ([found here](data/
 
 And now I wait for everything else to turn up...
 
-# 26th January 2024
+# 26th January 2024 (Day 2)
 
 The switch and bottom plates, switches, diodes and wire have arrived!
 
@@ -60,3 +60,6 @@ Apologies for the shody photots.
 6 switches off though...
 
 I then spent the next half hour using these sausage finger to bend all my diodes in preparation for soldering day.
+
+# 27th January 2024 (Day 3)
+I tried prepping the wire, cutting the blue wire into strips suitable for the columns, however cutting out the sections for the soldering was pretty difficult. For that reason i'm going to follow Joe Scotto's lead and get my self some bare and larger wire with heat shrink. That will hopefully make life significantly easier.

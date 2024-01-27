@@ -56,6 +56,8 @@ My new years resolution is no Amazon so my BoM so far is:
 | Wire | £8.00 | 60m of wire | [modellinglectronics](https://www.modellingelectronics.co.uk/products/solid-connecting-wire-1-0.6mm/) | 6 colours, 10m each not bad. Means I can have colour coded rows and columns for each area |
 | Time spent researching | Priceless | So much stuff! | Reddit and Forums | Just so much... |
 
+Adendum (Day 3)- I've replaced the wire with 1/0.8 bare copper wire (straightened like Joe Scotto's stuff) and heatshrink stuff. The insulated stuff was just too difficult to work with, however, i'll be able to use it bridge each side of the keyboard. So that everything can route around the controller.
+
 So far that is **£168.80**
 
 Which I don't think is too bad, and could be brought under £100 by 3D printing the case or using smaller cheaper microcontroller.
