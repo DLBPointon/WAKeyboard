@@ -67,6 +67,8 @@ I tried prepping the wire, cutting the blue wire into strips suitable for the co
 # 28th January 2024 (Day 4)
 New wire has arrived, the heat shrink just about holds onto it when shrunk. It is alot more flammable than i thought though, so when using a naked flame make sure to be significantly above the the flame.
 
+Next time, get some significantly fatter wire, trying to solder lengths of wire which move just to inconvenience you is pretty annoying.
+
 I now started wiring the matrix and damn does it take some time.
 
 # 30th January 2024 (Day 5)
