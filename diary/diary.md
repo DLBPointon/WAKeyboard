@@ -63,3 +63,29 @@ I then spent the next half hour using these sausage finger to bend all my diodes
 
 # 27th January 2024 (Day 3)
 I tried prepping the wire, cutting the blue wire into strips suitable for the columns, however cutting out the sections for the soldering was pretty difficult. For that reason i'm going to follow Joe Scotto's lead and get my self some bare and larger wire with heat shrink. That will hopefully make life significantly easier.
+
+# 28th January 2024 (Day 4)
+New wire has arrived, the heat shrink just about holds onto it when shrunk. It is alot more flammable than i thought though, so when using a naked flame make sure to be significantly above the the flame.
+
+I now started wiring the matrix and damn does it take some time.
+
+# 30th January 2024 (Day 5)
+The final switches have arrived and I've now finished the rows and started on the columns with now look something like this (excuse the soldering, it's been 12 years since my last failed attempt).
+
+![Right side matrix](../Images/right_matrix.png)
+
+And now it has suddenly dawned on me i've programmed the matrix backwards... I've done it as i look down on the back side of the board so left side QWERTY is actually right side YTREWQ. At least that is an east fix unlike the 8 backwards diodes I found!!!
+
+![Upside down diodes](../Images/damn_diodes.png)
+
+Make this be a lesson, always double check the diode direction! I rushed it because the last of the switches finally arrived. But damn is this going to be a pain.
+
+In good news, i have some jumper wire from older projects with raspberry pi's. I hooked up column 3,4,5,6 and row 3 and, after alot of head bashing with the waveshare (which suddenly doesn't work) and a quick replacement with a raspberry pi pico, it works! Never have I been so happy so see `sdfg` get printed out.
+
+Next, it is finishing the columns, swapping out the diodes and then finally running the rowns and columns to some headers that can go into the pinout board.
+
+![The keyboard so far](../Images/so_far.png)
+
+Yes that is 3M vecro hanging stuff, I had it laying around and for a prototype it ain't too bad. although, it and the Pi now ensures that at least the far end of the board will be about 0.8 inches thick and i've been told I'm not allowed to mount it on the top of the board as the black space **will** be engraved with a rainbow/heart or something equally cute. Orders are orders. So we are now looking at a sloped design.
+
+My daughter has already designed v2 though. Using a rainbow GPIO extender and *shock* a split style board. So that will be pretty fun. I'm thinking of having it so that the gpio can be disconnected easily from the top to turn it into a game pad or be swapped out for other gpio cables (wouldn't it be cool if you could get custom ones... or at least a sleave).

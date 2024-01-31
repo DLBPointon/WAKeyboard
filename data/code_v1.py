@@ -4,12 +4,18 @@ import board
 
 from kmk.kmk_keyboard import KMKKeyboard
 from kmk.keys import KC
+from kmk.hid import HIDModes
 from kmk.scanners import DiodeOrientation
 from kmk.handlers.sequences import send_string
+from kmk.modules.layers import Layers
 from kmk.extensions.media_keys import MediaKeys
 
 keyboard = KMKKeyboard()
 keyboard.extensions.append(MediaKeys())
+
+keyboard.modules = [Layers, MediaKeys]
+
+keyboard.debug_enabled = False
 
 WAK_W = send_string("What A Keyboard!!")
 WAK_A = send_string("Amazing Keyboard!!")
@@ -37,4 +43,4 @@ keyboard.keymap = [
 ]
 
 if __name__ == '__main__':
-    keyboard.go()
+    keyboard.go(hid_type=HIDModes.USB, secondary_hid_type=HIDModes.BLE, ble_name='WAKeyboard')
