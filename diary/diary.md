@@ -91,3 +91,25 @@ Next, it is finishing the columns, swapping out the diodes and then finally runn
 Yes that is 3M vecro hanging stuff, I had it laying around and for a prototype it ain't too bad. although, it and the Pi now ensures that at least the far end of the board will be about 0.8 inches thick and i've been told I'm not allowed to mount it on the top of the board as the black space **will** be engraved with a rainbow/heart or something equally cute. Orders are orders. So we are now looking at a sloped design.
 
 My daughter has already designed v2 though. Using a rainbow GPIO extender and *shock* a split style board. So that will be pretty fun. I'm thinking of having it so that the gpio can be disconnected easily from the top to turn it into a game pad or be swapped out for other gpio cables (wouldn't it be cool if you could get custom ones... or at least a sleave).
+
+# 1st February 2024 (Day 6)
+It is done! 
+I can't believe how long soldering can take.... but i'm going to end up doing more of this. Designing and making your own keyboard is quite a rush?!
+
+I've soldered the diodes ( one i did twice as i resoldered the new one on upside down and didn't realise for 20 mins).
+
+It took 2.5 hours soldering everything today (+ the 2 hours on previous days) and then another 1.5 hours of troubleshooting and re-soldering dodgey bit, which would immediately make the whole row work ( an absolute chef's kiss ).
+
+So I started will connecting the two halfs together and then the columns:
+![Half Wired](../Images/half-wired.png)
+
+Please don't judge the stripy nature of the pattern I went with. I thought it would be helpful and I ran out of colours to do what I wanted.
+
+Next the rows, and the troubleshooting:
+![Final wiring](../Images/final-wiring.png)
+
+Troubleshooting, as said earlier, was fixed dodgey soldering and dodgey code. It turned out that one line had not enough keycodes, causing all the keys to get shifted 2 to the left which made it look as though the bottom row didn't work at all this was after re-soldering the whole row and then realising my mistake.
+
+It may look horrific to a pro, but damn am I proud of it.
+
+Now to pick my kid up from school, take her to the hadware shop and get some inch long m3's before convincing her to give me a final*5 design she wants etched onto the front. And then explain that her keycaps won't arrive for another 10 days :|
