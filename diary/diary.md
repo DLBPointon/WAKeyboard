@@ -113,3 +113,34 @@ Troubleshooting, as said earlier, was fixed dodgey soldering and dodgey code. It
 It may look horrific to a pro, but damn am I proud of it.
 
 Now to pick my kid up from school, take her to the hadware shop and get some inch long m3's before convincing her to give me a final*5 design she wants etched onto the front. And then explain that her keycaps won't arrive for another 10 days :|
+
+# 5th February 2024 (Day 5)
+It turned out that the place i chose for 3d printing [Surface Scan](https://www.surfacescan.co.uk/) had to close due to everyone getting covid, which must have been a real pain for them, so we had to wait as few extra days. Which is fine, especially as the end product is great! My 3d modeling is quite literally non-existant, I managed to import the bottom plate into Autodesk Fusion and extrude the outline by about an inch ( because of the whole microcontroller _having_ to to internal ). I made sure that the walls were all obout 1.5mm thick for rigidity and presto.
+
+Once it arrived, I had to do some artistic restructuring... e.g. i cut out a chunk which turned out be to be fair chunk. If I was just more patient then i could have actually measured the cut out and modelled it properly, however, i'm impatient and my boss (a 6yr old) is even less so.
+
+It also turned out that the screw holes where perfect for the M3 screws to not need any nut. Bonus.
+
+The final product, including the cut out:
+![Alt text](image.png)
+
+Also, say what you will about my wire pattern but it has actually helped me fund issues.... issues caused by myself but issues none the less. I dropped it and re-soldered a red wire to GND. It wasn't until testing I realised that the wires were red, red, blue instead of alternating. Fixed in a jiffy.
+
+Ultimately we ended up with this:
+![Alt text](image-1.png)
+
+An inch thicc aluminium and 3d printed case, MX silent red switches with jelly baby keycaps from Etsy.
+![Alt text](image-2.png)
+
+# Summary
+Clearly, there are some glaring faults here.
+- The inch thick cavity is not good, if makes a bit of an echo chamber which makes quite the twang when a central button is pressed.
+    - Next versions should seat the MCU on top ( like the lumberjack which I think is cool af )or have more fill inside the case. Maybe foam?
+
+- Although the dedicated MCU socket is a good idea, to me anyway, it add ALOT of headroom. Perhaps, if the extra gpio pins pointed downwards so that the socket can pop out of the top and the pins point below... that would be a nice to have and potentially not hard to design...
+
+- Better modelling of the case.
+
+- MAGNETS! These would be much better to secure the top and bottom to the case.
+
+- Wiring, cutting out segments didnt work... heat shrinking tiny bits of shrink. Next time, because there will be a next time. I'll be using magnetic wire.

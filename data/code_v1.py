@@ -34,7 +34,7 @@ keyboard.diode_orientation = DiodeOrientation.COL2ROW
 
 keyboard.keymap = [
     [   KC.NO, KC.NO, KC.N2, KC.N3, KC.N4, KC.N5,           KC.NO, KC.NO, KC.NO,        KC.N6, KC.N7, KC.N8, KC.N9, KC.NO, KC.NO,
-        KC.ESC, KC.N1, KC.W, KC.E, KC.R, KC.T,              KC.NO, KC.NO, KC.NO,        KC.Y, KC.U, KC.I, KC.O, KC.N0, KC.TILD,
+        KC.ESC, KC.N1, KC.W, KC.E, KC.R, KC.T,              KC.NO, KC.NO, KC.NO,        KC.Y, KC.U, KC.I, KC.O, KC.N0, KC.BSPC,
         KC.TAB, KC.Q, KC.S, KC.D, KC.F, KC.G,               KC.NO, KC.NO, KC.NO,        KC.H, KC.J, KC.K, KC.L, KC.P, KC.QUOT,
         KC.LSHIFT, KC.A, KC.X, KC.C, KC.V, KC.B,            KC.NO, KC.NO, KC.NO,        KC.N, KC.M, KC.COMM, KC.DOT, KC.SLSH, KC.GRV,
         KC.LCTRL, KC.Z, KC.LGUI, KC.LALT, KC.ENT, KC.SPACE, WAK_W, WAK_A, WAK_K,        KC.SPACE, KC.ENT, KC.RALT, KC.MUTE, KC.VOLU, KC.VOLD,
