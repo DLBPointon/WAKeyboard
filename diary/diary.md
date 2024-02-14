@@ -122,14 +122,14 @@ Once it arrived, I had to do some artistic restructuring... e.g. i cut out a chu
 It also turned out that the screw holes where perfect for the M3 screws to not need any nut. Bonus.
 
 The final product, including the cut out:
-![Alt text](../Images/theguts.png)
+![Guts of the keyboard](../Images/theguts.png)
 
 Also, say what you will about my wire pattern but it has actually helped me fund issues.... issues caused by myself but issues none the less. I dropped it and re-soldered a red wire to GND. It wasn't until testing I realised that the wires were red, red, blue instead of alternating. Fixed in a jiffy.
 
 Ultimately we ended up with this:
-![Alt text](../Images/gloryshot.png)
+![The whole thing](../Images/gloryshot.png)
 
 An inch thicc aluminium and 3d printed case, MX silent red switches with jelly baby keycaps from Etsy.
-![Alt text](../Images/fullfrontal.png)
+![Now from the front](../Images/fullfrontal.png)
 
 # Next... Engraving
