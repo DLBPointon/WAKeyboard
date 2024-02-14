@@ -115,7 +115,7 @@ It may look horrific to a pro, but damn am I proud of it.
 Now to pick my kid up from school, take her to the hadware shop and get some inch long m3's before convincing her to give me a final*5 design she wants etched onto the front. And then explain that her keycaps won't arrive for another 10 days :|
 
 # 5th February 2024 (Day 5)
-It turned out that the place i chose for 3d printing [Surface Scan](https://www.surfacescan.co.uk/) had to close due to everyone getting covid, which must have been a real pain for them, so we had to wait as few extra days. Which is fine, especially as the end product is great! My 3d modeling is quite literally non-existant, I managed to import the bottom plate into Autodesk Fusion and extrude the outline by about an inch ( because of the whole microcontroller _having_ to to internal ). I made sure that the walls were all obout 1.5mm thick for rigidity and presto.
+It turned out that the place i chose for 3d printing [Surface Scan](https://www.surfacescan.co.uk/) had to close due to everyone getting covid, which must have been a real pain for them, so we had to wait as few extra days. Which is fine, especially as the end product is great! My 3d modeling is quite literally non-existant, I managed to import the bottom plate into Autodesk Fusion and extrude the outline by about an inch ( because of the whole microcontroller _having_ to to internal ). I made sure that the walls were all obout 1.5mm thick for rigidity and presto. Find the stl in the cad folder.
 
 Once it arrived, I had to do some artistic restructuring... e.g. i cut out a chunk which turned out be to be fair chunk. If I was just more patient then i could have actually measured the cut out and modelled it properly, however, i'm impatient and my boss (a 6yr old) is even less so.
 
@@ -132,3 +132,4 @@ Ultimately we ended up with this:
 An inch thicc aluminium and 3d printed case, MX silent red switches with jelly baby keycaps from Etsy.
 ![Alt text](../Images/fullfrontal.png)
 
+# Next... Engraving
