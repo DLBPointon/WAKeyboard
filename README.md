@@ -5,6 +5,19 @@ Whilst waiting for a replacement for a beautiful split keyboard, the Sofle v2, i
 ## Build Diary
 [Find my build diary here](diary/diary.md)
 
+# Summary
+Clearly, there are some glaring faults here.
+- The inch thick cavity is not good, if makes a bit of an echo chamber which makes quite the twang when a central button is pressed.
+    - Next versions should seat the MCU on top ( like the lumberjack which I think is cool af )or have more fill inside the case. Maybe foam?
+
+- Although the dedicated MCU socket is a good idea, to me anyway, it add ALOT of headroom. Perhaps, if the extra gpio pins pointed downwards so that the socket can pop out of the top and the pins point below... that would be a nice to have and potentially not hard to design...
+
+- Better modelling of the case.
+
+- MAGNETS! These would be much better to secure the top and bottom to the case.
+
+- Wiring, cutting out segments didnt work... heat shrinking tiny bits of shrink. Next time, because there will be a next time. I'll be using magnetic wire.
+
 ## The Board
 This will be a handwired, wired (for now) build using an RP2040 board (specifically this one [Waveshare RP2040 Plus](https://thepihut.com/products/rp2040-plus?variant=42405935612099), however if that doesn't work out then I have a Pi Pico WH in waiting--which I need to figure out how to hook up to a LiPo) programmed with KMK. For me this makes sense as i'm primarily a Python developer and KMK is built for the RP2040 ecosystem.
 
@@ -55,10 +68,11 @@ My new years resolution is no Amazon so my BoM so far is:
 | Metal plates | £70.00 | The case for the whole thing | [Lasterboost](https://www.laserboost.com/en/create) | I only got the switch and bottom plate, but really I should have just gone for a 3D printer service for this prototype |
 | Wire | £8.00 | 60m of wire | [modellinglectronics](https://www.modellingelectronics.co.uk/products/solid-connecting-wire-1-0.6mm/) | 6 colours, 10m each not bad. Means I can have colour coded rows and columns for each area |
 | Time spent researching | Priceless | So much stuff! | Reddit and Forums | Just so much... |
+| 3D printed case | £22 | Safer than the sandwiched metal | [Surface Scan](https://www.surfacescan.co.uk/) | Pretty cool |
 
 Adendum (Day 3)- I've replaced the wire with 1/0.8 bare copper wire (straightened like Joe Scotto's stuff) and heatshrink stuff. The insulated stuff was just too difficult to work with, however, i'll be able to use it bridge each side of the keyboard. So that everything can route around the controller.
 
-So far that is **£168.80**
+So far that is around **£190.80**
 
 Which I don't think is too bad, and could be brought under £100 by 3D printing the case or using smaller cheaper microcontroller.
 
